@@ -38,3 +38,5 @@ C:\Users\SAFC\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood
 C:\Users\SAFC\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 C:\Users\SAFC\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
 C:\Users\SAFC\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Users\SAFC\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\Users\SAFC\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
